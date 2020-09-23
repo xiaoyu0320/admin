@@ -1,0 +1,35 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 533 417" style="enable-background:new 0 0 533 417;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+	.st3{fill:#6D5A24;}
+	.st4{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+</style>
+<path d="M460.2,45.6H82.8c-26.8,0-48.6,21.8-48.6,48.6v228.6c0,26.8,21.8,48.6,48.6,48.6h377.4c26.8,0,48.6-21.8,48.6-48.6V94.2
+	C508.8,67.3,487,45.6,460.2,45.6z M264.3,183.7h93.5v9h-93.5V183.7z M102.3,266.2c0-29.3,19.4-54.1,46-62.3
+	c-8.2-5.9-13.6-15.6-13.6-26.5c0-18.1,14.6-32.7,32.7-32.7s32.7,14.6,32.7,32.7c0,10.9-5.4,20.6-13.6,26.5c26.6,8.2,46,32.9,46,62.3
+	H102.3z M452,265.7H264.3v-9H452V265.7z"/>
+</svg>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 533 417" style="enable-background:new 0 0 533 417;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+	.st3{fill:#6D5A24;}
+	.st4{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+</style>
+<path d="M460.2,45.6H82.8c-26.8,0-48.6,21.8-48.6,48.6v228.6c0,26.8,21.8,48.6,48.6,48.6h377.4c26.8,0,48.6-21.8,48.6-48.6V94.2
+	C508.8,67.3,487,45.6,460.2,45.6z M264.3,183.7h93.5v9h-93.5V183.7z M102.3,266.2c0-29.3,19.4-54.1,46-62.3
+	c-8.2-5.9-13.6-15.6-13.6-26.5c0-18.1,14.6-32.7,32.7-32.7s32.7,14.6,32.7,32.7c0,10.9-5.4,20.6-13.6,26.5c26.6,8.2,46,32.9,46,62.3
+	H102.3z M452,265.7H264.3v-9H452V265.7z"/>
+</svg>
+>>>>>>> f9695cd9e01237b2693c87894834485d751fe5b1
